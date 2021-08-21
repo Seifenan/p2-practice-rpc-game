@@ -10,4 +10,4 @@
 
 ## Completed Screenshot
 
-<img src="assets\images\Screenshot.png">
+<img src="p2-practice-rpc-game\assets\images\Screenshot.png">
