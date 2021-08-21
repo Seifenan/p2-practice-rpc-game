@@ -1,4 +1,4 @@
-# Pre-work: Broken Code
+# Pre-work: Rock Paper Scissors
 
 > I was tasked with creating a simple Rock Paper Scissors game using functions.
 
@@ -10,4 +10,4 @@
 
 ## Completed Screenshot
 
-<img src="p2-practice-rpc-game\assets\images\Screenshot.png">
+<img src="assets\images\Screenshot.png">
